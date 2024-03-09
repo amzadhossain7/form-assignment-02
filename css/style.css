@@ -219,10 +219,9 @@ margin-bottom: 48px;
 color: rgba(255, 255, 255, 0.5);
 }
 
-.icon{display: flex;align-items: baseline;/* margin-right: 2px; */}
-
-.icon i{
-
+.icon{
+display: flex;
+align-items: baseline;
 }
 
 .icon p{
@@ -234,9 +233,6 @@ margin-bottom: 25px;
 margin-left: 25px;
 }
 
-.buttom{
-
-}
 .buttom input{
 
 border: none;
